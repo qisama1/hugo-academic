@@ -12,3 +12,5 @@ image:
 categories: []
 ---
 # M﻿yGamePlant
+
+![](avatar.jpg)
