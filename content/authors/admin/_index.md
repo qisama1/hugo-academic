@@ -1,7 +1,7 @@
 ---
 title: WenQi Yu
 role: Back end development
-avatar_filename: null
+avatar_filename: qq图片20221016183121.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
