@@ -1,6 +1,6 @@
 ---
-title: Chin
-role: Professor of Artificial Intelligence
+title: WenQi Yu
+role: Back end development
 avatar_filename: null
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -12,21 +12,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: blog
     icon_pack: fas
     link: https://www.cnblogs.com/azxx/
   - icon: github
     icon_pack: fab
     link: https://github.com/qisama1
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
 organizations:
   - name: South China University of Technology
     url: https://www.scut.edu.cn/new/
