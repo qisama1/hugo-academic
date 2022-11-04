@@ -5,9 +5,11 @@ avatar_filename: null
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
+  - Java
+  - Golang
+  - Cloud native
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational-Biography
 social:
   - icon: envelope
     icon_pack: fas
