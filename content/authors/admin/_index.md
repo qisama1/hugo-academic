@@ -39,8 +39,12 @@ first_name: Alice
 email: 996800442@qq.com
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I focus on back-end development and here are my personal skills
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+1. Good computer foundation, familiar with computer network and basic data structure and algorithm
+2. Have a good foundation of Java, have my own understanding of JFC and JUC, understand the synchronization and locking mechanism, understand the principle of AQS, and have related project experience
+3. Familiar with Mysql database and basic principles, familiar with Mysql lock mechanism and transaction processing.
+4. Proficient in Redis and its principles, familiar with the basic data structure, master-slave architecture and sentinel mechanism of Redis.
+5. Own understanding of distributed systems and microservices
+6. Love learning, keep long-term algorithm practice and notes accumulation
