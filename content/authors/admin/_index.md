@@ -2,8 +2,7 @@
 title: WenQi Yu
 role: Back end development
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: I focus on back-end development
 interests:
   - Java
   - Golang
