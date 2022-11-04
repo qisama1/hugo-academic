@@ -14,6 +14,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+    label: 996800442@qq.com
   - icon: blog
     icon_pack: fas
     link: https://www.cnblogs.com/azxx/
