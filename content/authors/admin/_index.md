@@ -2,7 +2,7 @@
 title: WenQi Yu
 role: Back end development
 avatar_filename: avatar.jpg
-bio: I focus on back-end development
+bio: Java, Golang, Cloud native, Artificial Intelligence, Computational-Biography
 interests:
   - Java
   - Golang
