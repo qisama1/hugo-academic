@@ -1,6 +1,7 @@
 ---
 title: Chin
 role: Professor of Artificial Intelligence
+avatar_filename: null
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -22,7 +23,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/qisama1
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
