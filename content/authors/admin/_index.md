@@ -18,9 +18,9 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap
+  - icon: blog
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.cnblogs.com/azxx/
   - icon: github
     icon_pack: fab
     link: https://github.com/qisama1
@@ -28,8 +28,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: South China University of Technology
+    url: https://www.scut.edu.cn/new/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -45,7 +45,7 @@ superuser: true
 last_name: Bighetti
 highlight_name: true
 first_name: Alice
-email: ""
+email: 996800442@qq.com
 ---
 
 Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
